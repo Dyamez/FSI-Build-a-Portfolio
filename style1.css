@@ -1,0 +1,14 @@
+body {
+    background-color: gainsboro;
+    line-height: 1/5em;
+}
+
+h1 {
+color: brown;
+background-color: gray;
+border-style: dotted; 
+}
+
+li {
+    background-color: tan;
+}
